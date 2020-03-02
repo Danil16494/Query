@@ -1,0 +1,15 @@
+{
+    "name": "surovcev/product",
+    "authors": [
+        {
+            "name": "Danil",
+            "email": "surovcev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "app"
+        }
+    }
+}
