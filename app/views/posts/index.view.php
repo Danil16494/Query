@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . "/../parts/header.php"
+echo "Hello";
 ?>
     <h2>Посты</h2>
     <div class="row">
