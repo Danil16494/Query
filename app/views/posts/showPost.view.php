@@ -1,5 +1,6 @@
 <?php
 $title = "Добавление поста";
+echo "dasda";
 require_once __DIR__ . "/../parts/header.php";
 ?>
     <h2 class="offset-3">Post...</h2>
